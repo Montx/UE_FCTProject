@@ -35,7 +35,4 @@ void UFCTCharacterMovementComponent::ApplyRootMotionToVelocity(float deltaTime)
 	{
 		OriginalRootMotionVelocity = FVector::ZeroVector;
 	}
-	
-	
-	
 }
